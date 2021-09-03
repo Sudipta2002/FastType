@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fasttype/static/css/main.4c7f7908.chunk.css",
+    "main.js": "/fasttype/static/js/main.c08ee09f.chunk.js",
+    "main.js.map": "/fasttype/static/js/main.c08ee09f.chunk.js.map",
+    "runtime-main.js": "/fasttype/static/js/runtime-main.2aeb7adf.js",
+    "runtime-main.js.map": "/fasttype/static/js/runtime-main.2aeb7adf.js.map",
+    "static/js/2.d9a35234.chunk.js": "/fasttype/static/js/2.d9a35234.chunk.js",
+    "static/js/2.d9a35234.chunk.js.map": "/fasttype/static/js/2.d9a35234.chunk.js.map",
+    "index.html": "/fasttype/index.html",
+    "static/css/main.4c7f7908.chunk.css.map": "/fasttype/static/css/main.4c7f7908.chunk.css.map",
+    "static/js/2.d9a35234.chunk.js.LICENSE.txt": "/fasttype/static/js/2.d9a35234.chunk.js.LICENSE.txt",
+    "static/media/land2.96e141d3.png": "/fasttype/static/media/land2.96e141d3.png",
+    "static/media/logo1.7c3e52e3.png": "/fasttype/static/media/logo1.7c3e52e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aeb7adf.js",
+    "static/js/2.d9a35234.chunk.js",
+    "static/css/main.4c7f7908.chunk.css",
+    "static/js/main.c08ee09f.chunk.js"
+  ]
+}
